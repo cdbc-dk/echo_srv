@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="17">
+      <Unit0>
+        <Filename Value="echo_srv.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="51" Y="4"/>
+        <UsageCount Value="208"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="lfmmain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="lfmMain"/>
+        <TopLine Value="127"/>
+        <CursorPos X="39" Y="130"/>
+        <UsageCount Value="208"/>
+        <Bookmarks Count="2">
+          <Item0 X="3" Y="160"/>
+          <Item1 X="2" Y="187" ID="1"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="bc_msgqueue.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UsageCount Value="208"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="echo.pas"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="209"/>
+        <CursorPos X="61" Y="246"/>
+        <UsageCount Value="103"/>
+        <Bookmarks Count="1">
+          <Item0 X="20" Y="245" ID="2"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="../library_2020/bc_mtlinklist.pas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="773"/>
+        <CursorPos X="3" Y="740"/>
+        <UsageCount Value="42"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="../library_2020/bc_msgqueue.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="130"/>
+        <CursorPos X="51" Y="147"/>
+        <UsageCount Value="71"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="../library_2020/bc_msgqueue.log"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="7"/>
+        <CursorPos Y="27"/>
+        <UsageCount Value="4"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="/usr/lib64/lazarus/lcl/forms.pp"/>
+        <UnitName Value="Forms"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1374"/>
+        <CursorPos X="15" Y="1507"/>
+        <UsageCount Value="4"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="/usr/lib64/lazarus/lcl/include/application.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="551"/>
+        <CursorPos X="3" Y="397"/>
+        <UsageCount Value="4"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="/usr/lib64/lazarus/lcl/interfacebase.pp"/>
+        <UnitName Value="InterfaceBase"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="128"/>
+        <CursorPos X="15" Y="136"/>
+        <UsageCount Value="4"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="/usr/share/fpcsrc/rtl/objpas/classes/classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="168"/>
+        <CursorPos X="21" Y="176"/>
+        <UsageCount Value="6"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="/usr/share/fpcsrc/rtl/objpas/classes/lists.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="604"/>
+        <CursorPos X="36" Y="624"/>
+        <UsageCount Value="6"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="/usr/share/fpcsrc/rtl/unix/classes.pp"/>
+        <UnitName Value="Classes"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="20"/>
+        <CursorPos X="3" Y="29"/>
+        <UsageCount Value="5"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="/usr/share/fpcsrc/rtl/objpas/types.pp"/>
+        <UnitName Value="Types"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="16"/>
+        <UsageCount Value="5"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="/usr/share/fpcsrc/rtl/objpas/rtlconsts.pp"/>
+        <UnitName Value="RtlConsts"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="5"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="/usr/share/fpcsrc/rtl/objpas/rtlconst.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="111"/>
+        <CursorPos X="20" Y="17"/>
+        <UsageCount Value="5"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="../library_2020/bc_errorlog.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="57"/>
+        <UsageCount Value="38"/>
+        <Loaded Value="True"/>
+      </Unit16>
+    </Units>
+    <JumpHistory Count="29" HistoryIndex="28">
+      <Position1>
+        <Filename Value="lfmmain.pas"/>
+        <Caret Line="159" TopLine="149"/>
+      </Position1>
+      <Position2>
+        <Filename Value="lfmmain.pas"/>
+        <Caret Line="160" TopLine="149"/>
+      </Position2>
+      <Position3>
+        <Filename Value="lfmmain.pas"/>
+        <Caret Line="161" TopLine="149"/>
+      </Position3>
+      <Position4>
+        <Filename Value="lfmmain.pas"/>
+        <Caret Line="162" TopLine="149"/>
+      </Position4>
+      <Position5>
+        <Filename Value="lfmmain.pas"/>
+        <Caret Line="163" TopLine="149"/>
+      </Position5>
+      <Position6>
+        <Filename Value="lfmmain.pas"/>
+        <Caret Line="164" TopLine="149"/>
+      </Position6>
+      <Position7>
+        <Filename Value="lfmmain.pas"/>
+        <Caret Line="165" TopLine="150"/>
+      </Position7>
+      <Position8>
+        <Filename Value="lfmmain.pas"/>
+        <Caret Line="166" TopLine="151"/>
+      </Position8>
+      <Position9>
+        <Filename Value="lfmmain.pas"/>
+        <Caret Line="167" TopLine="152"/>
+      </Position9>
+      <Position10>
+        <Filename Value="lfmmain.pas"/>
+        <Caret Line="168" TopLine="153"/>
+      </Position10>
+      <Position11>
+        <Filename Value="lfmmain.pas"/>
+        <Caret Line="169" TopLine="154"/>
+      </Position11>
+      <Position12>
+        <Filename Value="lfmmain.pas"/>
+        <Caret Line="170" TopLine="155"/>
+      </Position12>
+      <Position13>
+        <Filename Value="lfmmain.pas"/>
+        <Caret Line="171" TopLine="156"/>
+      </Position13>
+      <Position14>
+        <Filename Value="lfmmain.pas"/>
+        <Caret Line="172" TopLine="157"/>
+      </Position14>
+      <Position15>
+        <Filename Value="lfmmain.pas"/>
+        <Caret Line="173" TopLine="159"/>
+      </Position15>
+      <Position16>
+        <Filename Value="lfmmain.pas"/>
+        <Caret Line="181" TopLine="173"/>
+      </Position16>
+      <Position17>
+        <Filename Value="lfmmain.pas"/>
+        <Caret Line="183" TopLine="173"/>
+      </Position17>
+      <Position18>
+        <Filename Value="echo.pas"/>
+        <Caret Line="247" Column="57"/>
+      </Position18>
+      <Position19>
+        <Filename Value="echo.pas"/>
+        <Caret Line="254" Column="50" TopLine="240"/>
+      </Position19>
+      <Position20>
+        <Filename Value="echo.pas"/>
+        <Caret Line="178" Column="52" TopLine="169"/>
+      </Position20>
+      <Position21>
+        <Filename Value="echo.pas"/>
+        <Caret Line="179" Column="39" TopLine="169"/>
+      </Position21>
+      <Position22>
+        <Filename Value="echo.pas"/>
+        <Caret Line="186" Column="53" TopLine="171"/>
+      </Position22>
+      <Position23>
+        <Filename Value="echo.pas"/>
+        <Caret Line="197" Column="67" TopLine="182"/>
+      </Position23>
+      <Position24>
+        <Filename Value="echo.pas"/>
+        <Caret Line="199" Column="54" TopLine="184"/>
+      </Position24>
+      <Position25>
+        <Filename Value="echo.pas"/>
+        <Caret Line="205" Column="58" TopLine="190"/>
+      </Position25>
+      <Position26>
+        <Filename Value="echo.pas"/>
+        <Caret Line="208" Column="45" TopLine="194"/>
+      </Position26>
+      <Position27>
+        <Filename Value="echo.pas"/>
+        <Caret Line="212" Column="50" TopLine="198"/>
+      </Position27>
+      <Position28>
+        <Filename Value="echo.pas"/>
+        <Caret Line="235" Column="52" TopLine="220"/>
+      </Position28>
+      <Position29>
+        <Filename Value="echo.pas"/>
+        <Caret Line="244" Column="59" TopLine="229"/>
+      </Position29>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

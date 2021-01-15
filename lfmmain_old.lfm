@@ -1,0 +1,51 @@
+object frmMain: TfrmMain
+  Left = 324
+  Height = 480
+  Top = 154
+  Width = 752
+  Caption = 'Echo Server'
+  ClientHeight = 480
+  ClientWidth = 752
+  OnCreate = FormCreate
+  OnShow = FormShow
+  LCLVersion = '2.0.4.0'
+  object btnStartSrv: TButton
+    Left = 37
+    Height = 25
+    Top = 23
+    Width = 121
+    Caption = 'Start Echo Server'
+    OnClick = btnStartSrvClick
+    TabOrder = 0
+  end
+  object btnStopSrv: TButton
+    Left = 172
+    Height = 25
+    Top = 23
+    Width = 129
+    Caption = 'Stop Echo Server'
+    OnClick = btnStopSrvClick
+    TabOrder = 1
+  end
+  object Memo1: TMemo
+    Left = 10
+    Height = 414
+    Top = 60
+    Width = 732
+    Color = clBlack
+    Font.Color = clYellow
+    Lines.Strings = (
+      'Memo1'
+    )
+    ParentFont = False
+    ScrollBars = ssAutoBoth
+    TabOrder = 2
+  end
+  object Timer1: TTimer
+    Enabled = False
+    Interval = 1
+    OnTimer = Timer1Timer
+    left = 4
+    top = 5
+  end
+end

@@ -1,0 +1,36 @@
+msg: Create, wparam: 8723, lparam: 140038167570176, sparam: TTcpEchoDaemon created... enqueued
+msg: Listen, wparam: 8723, lparam: 140038167570176, sparam: Echo daemon is listening... enqueued
+msg: Create, wparam: 8723, lparam: 140038167570176, sparam: TTcpEchoDaemon created... dequeued
+msg: Listen, wparam: 8723, lparam: 140038167570176, sparam: Echo daemon is listening... dequeued
+msg: Accept, wparam: 8723, lparam: 140038167570176, sparam: Echo daemon accepted client. enqueued
+msg: Create, wparam: 8723, lparam: 140038163199744, sparam: TTcpEcho thread created... enqueued
+msg: Working, wparam: 8723, lparam: 140038163199744, sparam: Received: .send|Kontoudskrift 6715608194.PDF enqueued
+msg: Working, wparam: 8723, lparam: 140038163199744, sparam: Processing command. enqueued
+msg: Accept, wparam: 8723, lparam: 140038167570176, sparam: Echo daemon accepted client. dequeued
+msg: Create, wparam: 8723, lparam: 140038163199744, sparam: TTcpEcho thread created... dequeued
+msg: Working, wparam: 8723, lparam: 140038163199744, sparam: Received: .send|Kontoudskrift 6715608194.PDF dequeued
+msg: Working, wparam: 8723, lparam: 140038163199744, sparam: Processing command. dequeued
+msg: Loaded, wparam: 45460, lparam: 25814608, sparam: /home/bc/share/Kontoudskrift 6715608194.PDF enqueued
+msg: Sent, wparam: 45460, lparam: 25814608, sparam: /home/bc/share/Kontoudskrift 6715608194.PDF successfuly sent :-) enqueued
+msg: Loaded, wparam: 45460, lparam: 25814608, sparam: /home/bc/share/Kontoudskrift 6715608194.PDF dequeued
+msg: Sent, wparam: 45460, lparam: 25814608, sparam: /home/bc/share/Kontoudskrift 6715608194.PDF successfuly sent :-) dequeued
+msg: Done!, wparam: 8723, lparam: 140038163199744, sparam: TTcpEcho thread is done! enqueued
+msg: Done!, wparam: 8723, lparam: 140038163199744, sparam: TTcpEcho thread is done! dequeued
+msg: Accept, wparam: 8723, lparam: 140038167570176, sparam: Echo daemon accepted client. enqueued
+msg: Create, wparam: 8723, lparam: 140038163199744, sparam: TTcpEcho thread created... enqueued
+msg: Working, wparam: 8723, lparam: 140038163199744, sparam: Received: .list|Kontoudskrift 6715608194.PDF enqueued
+msg: Working, wparam: 8723, lparam: 140038163199744, sparam: Processing command. enqueued
+msg: Sending, wparam: 8, lparam: 25875998, sparam: Sending List. enqueued
+msg: Accept, wparam: 8723, lparam: 140038167570176, sparam: Echo daemon accepted client. dequeued
+msg: Sent, wparam: 8, lparam: 25875998, sparam: List successfuly sent :-) enqueued
+msg: Create, wparam: 8723, lparam: 140038163199744, sparam: TTcpEcho thread created... dequeued
+msg: Working, wparam: 8723, lparam: 140038163199744, sparam: Received: .list|Kontoudskrift 6715608194.PDF dequeued
+msg: Working, wparam: 8723, lparam: 140038163199744, sparam: Processing command. dequeued
+msg: Sending, wparam: 8, lparam: 25875998, sparam: Sending List. dequeued
+msg: Sent, wparam: 8, lparam: 25875998, sparam: List successfuly sent :-) dequeued
+msg: Done!, wparam: 8723, lparam: 140038163199744, sparam: TTcpEcho thread is done! enqueued
+msg: Done!, wparam: 8723, lparam: 140038163199744, sparam: TTcpEcho thread is done! dequeued
+msg: Done!, wparam: 8723, lparam: 140038167570176, sparam: Echo daemon is done! enqueued
+msg: Destroy, wparam: 8723, lparam: 140038167570176, sparam: TTcpEchoDaemon destroyed. enqueued
+msg: Done!, wparam: 8723, lparam: 140038167570176, sparam: Echo daemon is done! dequeued
+msg: Destroy, wparam: 8723, lparam: 140038167570176, sparam: TTcpEchoDaemon destroyed. dequeued
